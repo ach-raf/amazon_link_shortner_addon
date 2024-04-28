@@ -1,0 +1,22 @@
+/* Style the popup container */
+.popup-container {
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the button */
+#clickMeButton {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Style the message div */
+#message {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green;
+}
